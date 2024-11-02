@@ -37,7 +37,7 @@ class ShardedGroupDataset(Dataset):
         return shards
     
     def remove_row(self):
-        #removes the row from the dataset
+        #removes the row from the dataset, unlearning part
         pass
     
 
